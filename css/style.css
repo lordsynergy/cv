@@ -1,0 +1,15 @@
+.profile-pic {
+  border-radius: 2%;
+  width: 300px;
+  margin: 20px auto;
+  display: inline-block;
+}
+
+.without_line {
+  text-decoration: none;
+}
+
+.bg_gradient {
+  background: rgb(248,255,242);
+  background: linear-gradient(141deg, rgba(248,255,242,1) 10%, rgba(255,255,254,1) 25%, rgba(255,255,255,1) 75%, rgba(255,243,243,1) 90%);
+}
